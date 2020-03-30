@@ -17,9 +17,10 @@ function crazy() {
   thisIsCrazy();
 
 
-var name = "Kristin";
+
 function sayMyName() {
   // fix the code in here:
+  var name = "Kristin";
     console.log(name);
 }
 sayMyName();
