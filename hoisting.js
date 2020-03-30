@@ -24,4 +24,4 @@ function sayMyName() {
     console.log(name);
   }
 }
-sayMy();
+sayMyName()();
