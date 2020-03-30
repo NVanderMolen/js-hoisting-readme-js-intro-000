@@ -12,7 +12,7 @@ callMe();
 function crazy() {
     console.log("hey!!!")
 }
-  Crazy();
+Crazy();
 
 
 
