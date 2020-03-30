@@ -12,7 +12,6 @@ callMe();
 function crazy() {
   // fix the code in here:
     console.log("hey!!!")
-
 }
   Crazy();
 
